@@ -1,0 +1,9 @@
+numpy==1.18.5
+openpyxl==3.0.3
+pylatexenc==2.10
+qiskit_terra==0.17.1
+sympy==1.5.1
+matplotlib==3.2.2
+scipy==1.5.0
+tqdm==4.42.1
+qiskit==0.25.2
